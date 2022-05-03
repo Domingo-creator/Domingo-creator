@@ -13,7 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+I am a programmer consumed by nature and music. I have a background in contemporary composition and a passion for the environment.
+
+Whether making music, crafting renewable projects or repurposing electronics, I have a creative solutions side to me that I have always enjoyed exploring and I am happy I am able to do that with software engineering.
+
+I love learning new technologies and the logic and creative challenges that come along with those technologies and I am always up for a good bug hunt.
 -->
+
+
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
